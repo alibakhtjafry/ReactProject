@@ -14,7 +14,7 @@ const sampleRecipes = [
   },
   {
     id: 2,
-    title: "Grilled Salmon with Avocado",
+    title: "chicken",
     image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
     time: "30 mins",
     servings: 4,
